@@ -6,6 +6,8 @@ var gfx;
 var ascii_arr;
 var cyclic_t;
 
+// This is comment from my local machine
+
 function preload() {
     // Gustave_Courbet_Le_Desperere_1845
     images[0] = loadImage('Gustave_Courbet_Le_Desperere_1845.jpg');
